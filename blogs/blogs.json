@@ -1,0 +1,21 @@
+{
+  "repo": "viewlocity",
+  "feeds": [
+    {
+      "source": "https://www.viewlocity.com/feed/",
+      "feed_url": "https://www.viewlocity.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.viewlocity.com/services-support/support/",
+      "feed_url": "https://www.viewlocity.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 4,
+  "fetched": "2026-08-01T15:49:00Z"
+}

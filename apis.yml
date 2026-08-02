@@ -1,8 +1,29 @@
 aid: viewlocity
 name: Viewlocity
-description: Viewlocity is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Viewlocity Technologies Pty Ltd is a supply chain management software company
+  that provides supply chain visibility, control tower, and execution solutions
+  for global manufacturers, distributors, and logistics providers. Its solution
+  set spans supply chain design, inventory and asset management, supply chain
+  management, logistics and transportation, planning and production, order
+  lifecycle management, and supplier management, delivered as SaaS and managed
+  services to industries including aerospace and defense, automotive and
+  industrial, consumer goods, high tech and electronics, manufacturing, retail,
+  and third-party logistics. Viewlocity publishes a corporate marketing and
+  resource website but does not expose a public developer portal, API
+  documentation, or machine-readable API specifications.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.viewlocity.com/wp-content/uploads/2019/04/img_logo.gif
 url: https://raw.githubusercontent.com/api-evangelist/viewlocity/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +33,38 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Supply Chain
+- Supply Chain Management
+- Logistics
+- Transportation
+- Inventory Management
+- Control Tower
+- Manufacturing
+- SaaS
 apis: []
+common:
+- type: Website
+  url: https://www.viewlocity.com/
+- type: Support
+  url: https://www.viewlocity.com/services-support/support/
+- type: Blog
+  url: https://www.viewlocity.com/news-and-updates/latest-news/
+- type: PrivacyPolicy
+  url: https://www.viewlocity.com/privacy-policy/
+- type: TermsOfService
+  url: https://www.viewlocity.com/terms-and-conditions/
+- type: DomainSecurity
+  url: security/viewlocity-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
